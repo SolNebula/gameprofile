@@ -1,0 +1,172 @@
+
+ /* comments here*/
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+}
+
+
+h1 {
+
+    font-family: 'Marck Script', cursive;
+    font-size: 7rem;
+    line-height: 2;
+    font-weight: normal;
+    color: #006d77;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-family: 'Dosis', sans-serif;
+    margin: 0%;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #006d77;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Quicksand', sans-serif;
+    color: #11999E;
+}
+
+hr {
+    border: none;
+    border-top:5px dotted #d4e7e7;
+    width: 4%;
+    margin: 50px auto 50px auto;
+
+}
+
+a {
+    color: #11999E;
+    font-family: 'Dosis', sans-serif;
+    margin: 20px 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6f6
+}
+
+
+                                            /* containers start here*/
+.top-container {
+    background-color: #edf6f9;
+    position: relative;
+    padding-top: 150px;
+}
+
+.middle-container {
+    margin: 100px 0 50;
+
+}
+
+.bottom-container {
+    margin-top: 40px;
+    padding: 40px 0 20px 0;
+    background-color: #edf6f9;
+}
+                                            /* containers end here*/
+
+
+                                            /* clouds start here*/
+.top-cloud {
+    position:absolute;
+    right: 250px;
+    top: 50px;
+ }
+
+.bottom-cloud {
+     position: absolute;
+     left: 300px;
+     bottom: 300px;
+ }
+
+ .mountain {
+    max-width:100%;
+    max-height:100%;
+ }
+                                          /* clouds end here*/
+
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 1.85;
+
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.intro {
+    width: 40%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 20px auto;
+    padding-bottom: 20px;
+}
+
+.copyright {
+    color:#a6dada;
+    font-family: 'Dosis', sans-serif;
+}
+
+.profile {
+    width: 50%;
+    margin: 20px auto;
+}
+
+.cooking-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.dancing-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+.btn {
+    color: #11999E;
+    background: #17b7bd;
+    background-image: -webkit-linear-gradient(top, #17b7bd, #11999E);
+    background-image: -moz-linear-gradient(top, #17b7bd, #11999E);
+    background-image: -ms-linear-gradient(top, #17b7bd, #11999E);
+    background-image: -o-linear-gradient(top, #17b7bd, #11999E);
+    background-image: linear-gradient(to bottom, #17b7bd, #11999E);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Dosis', sans-serif;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 8px 27px 10px 27px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #5ac5b7;
+    background-image: -webkit-linear-gradient(top, #5ac5b7, #35c2af);
+    background-image: -moz-linear-gradient(top, #5ac5b7, #35c2af);
+    background-image: -ms-linear-gradient(top, #5ac5b7, #35c2af);
+    background-image: -o-linear-gradient(top, #5ac5b7, #35c2af);
+    background-image: linear-gradient(to bottom, #5ac5b7, #35c2af);
+    text-decoration: none;
+  }
+.footer-link {
+    color: #11999E;
+}
+
